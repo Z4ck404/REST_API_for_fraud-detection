@@ -1,5 +1,5 @@
 # REST_API_for_fraud-detection
-A logistic regression model that detects the fraud in online transactions that can be acced with a REST API . 
+A logistic regression model that detects the fraud in online transactions . It can be acced with a REST API . 
 In the files also inclused an implementation with self organizing maps to better classify fraudulant transactions.
 
 ## The Trained model 
