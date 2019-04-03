@@ -47,7 +47,7 @@ The retuen result looks like this :
     }
 ```
 
-##/api/v0/info
+## /api/v0/info
 this endpoint give you the information you need to know about the API ,
 the result look like this , you can add as many details as you like 
 ```
