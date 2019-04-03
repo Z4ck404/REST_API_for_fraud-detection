@@ -21,7 +21,7 @@ python api.py
 ```
 the app will be running on local host port 5000 
 with the endpoints : 
-### /api/v0/verify 
+## /api/v0/verify 
 This endpoint get a JSON object in a  post method , that represents the new transaction 
 ```
  {
@@ -47,7 +47,7 @@ The retuen result looks like this :
     }
 ```
 
-###/api/v0/info
+##/api/v0/info
 this endpoint give you the information you need to know about the API ,
 the result look like this , you can add as many details as you like 
 ```
